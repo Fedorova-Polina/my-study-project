@@ -1,2 +1,2 @@
 # my-study-project
-##CMD и PowerShell
+## CMD и PowerShell
