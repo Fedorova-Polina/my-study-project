@@ -1,5 +1,0 @@
-name	Polina
-surname	Fedorova
-age	19
-specialization	Bioinformatics
-group	202.2
